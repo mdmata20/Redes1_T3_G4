@@ -29,15 +29,16 @@
 ![](https://i.imgur.com/DWFxdFU.png)
 
 
-6. En una consola externa de la máquina local hacer ping a la dirección IP de la máquina virtual **ping 10.8.0.1** (Miembro 201800722 - José Daniel Velásquez Orozco).
+6. En una consola externa de la máquina local hacer ping a la dirección IP de la máquina virtual **ping 10.8.0.1** 
+(Miembro 201800722 - José Daniel Velásquez Orozco).
 ![](https://i.imgur.com/4eaZ8gx.jpg)
 
 ### Comprobacion de conexión en las máquinas de los miembros restantes.
-- Miembro 201513626 - Manuel Alejandro De Mata Mayen
+- Miembro 201513626 _ Manuel Alejandro De Mata Mayen
 ![](https://i.imgur.com/rTFtu1M.jpg)
-- Miembro 201807316 - Jorge Isaac Xicol Vicente
+- Miembro 201807316 _ Jorge Isaac Xicol Vicente
 ![](https://i.imgur.com/osZVENJ.png)
-- Miembro 201800516 - Mynor Alison Isai Saban Che
+- Miembro 201800516 _ Mynor Alison Isai Saban Che
 ![](https://i.imgur.com/3iEppkh.png)
 
  
