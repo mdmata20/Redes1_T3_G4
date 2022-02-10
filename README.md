@@ -1,12 +1,12 @@
 
 # Tarea 3, Grupo 4
 
-| Carné         | Nombre                        |
-| --------      | --------                      |
-| 201513626     | Manuel Alejandro De Mata Mayen|
-| 201800516     | Mynor Alison Isai Saban Che   |
-| 201800722     | José Daniel Velásquez Orozco  |
-| 201807316     | Jorge Isaac Xicol Vicente     |
+| Carné         | Nombre                         |
+| --------      | --------                       |
+| 201513626     | Manuel Alejandro De Mata Mayen |
+| 201800516     | Mynor Alison Isai Saban Che    |
+| 201800722     | José Daniel Velásquez Orozco   |
+| 201807316     | Jorge Isaac Xicol Vicente      |
 
 ## Configuración VPN en Google Cloud
 
